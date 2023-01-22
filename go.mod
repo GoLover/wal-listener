@@ -1,4 +1,4 @@
-module github.com/ihippik/wal-listener
+module github.com/golover/wal-listener
 
 go 1.19
 
